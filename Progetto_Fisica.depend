@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1495225336 source:e:\files\programmazione\c++ projects\progetto_fisica\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<ctype.h>
+	<conio.h>
+
+1501438096 source:g:\programmazione\c++ projects\progetto_fisica\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<ctype.h>
+	<conio.h>
+	<sstream>
+	<mmsystem.h>
+
+1495546547 source:c:\users\allievo12\desktop\progetto_fisica\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<ctype.h>
+	<conio.h>
+
+1495726133 source:f:\programmazione\c++ projects\progetto_fisica\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<ctype.h>
+	<conio.h>
+	<sstream>
+	<mmsystem.h>
+
+1496692731 source:g:\programmazione\c++ projects\progetto_fisica\resources.rc
+
+1496692731 source:c:\users\yoote\desktop\progetto_fisica\resources.rc
+
+1501438132 source:c:\users\yoote\desktop\progetto_fisica\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<ctype.h>
+	<conio.h>
+	<sstream>
+	<mmsystem.h>
+
+1501438134 source:c:\users\user\desktop\progetto fisica\applicazione windows\michele giarletta\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<fstream>
+	<ctype.h>
+	<conio.h>
+	<sstream>
+	<mmsystem.h>
+
+1496696332 source:c:\users\user\desktop\progetto fisica\applicazione windows\michele giarletta\resources.rc
+
+1496696332 source:c:\users\yoote\desktop\michele giarletta\resources.rc
+
